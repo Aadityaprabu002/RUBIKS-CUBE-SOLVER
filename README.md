@@ -1,11 +1,11 @@
 # RUBIKS-CUBE-SOLVER
-if key == 'f': forward
+if key == 'f': front
     
-elif key=='F': forward inverse
+elif key=='F': front inverse
        
-elif key == 'b':  backward 
+elif key == 'b': back
        
-elif key == 'B': backward inverse
+elif key == 'B': back inverse
         
 elif key=='u':   up
        
